@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+lxml
+pandas
+openpyxl
+selenium
+webdriver-manager
+fake-useragent
+tldextract
+validators
